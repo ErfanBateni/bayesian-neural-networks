@@ -39,7 +39,6 @@ The project is implemented in Python within a comprehensive Jupyter Notebook (`I
 *   `/data`: Datasets used for regression and time-series modeling (`sunspot.dat`, `scaled_dataset.txt`, etc.).
 *   `/notebooks`: The main Jupyter notebook containing the implementation of all 4 modules.
 *   `/reports`: Detailed project reports with mathematical formulations, plots, and extensive analysis.
-*   `/images`: Figures and trajectory plots generated during MCMC and HMC sampling.
 
 ## 👥 Authors
 *   **Amir Ali Jafari (400100938)**
