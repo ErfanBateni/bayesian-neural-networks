@@ -42,12 +42,5 @@ The project is implemented in Python within a comprehensive Jupyter Notebook (`I
 *   `/images`: Figures and trajectory plots generated during MCMC and HMC sampling.
 
 ## 👥 Authors
-*   Mohammad Hossein Momeni
-*   Amirhossein Naghdi
-*   Hooman Zolfaghari
-*   Ghazal Hosseini
-*   Yahya Tehrani
-*   Amir Afzali
-*   Borna Khodabandeh
 *   **Amir Ali Jafari (400100938)**
 *   **Erfan Bateni (400100792)**
